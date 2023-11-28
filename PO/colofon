@@ -1,0 +1,16 @@
+kleurenpallet komt van colourlovers, pallet heet 'Pink Elephant'
+
+plaatje op home heb ik opgezocht op google onder 'muziek png'. website = https://www.pngmart.com/nl/image/25460
+
+menu balk heb ik gemaakt met .flexbox
+
+informatie die ik heb gebruikt voor mijn website, heb ik gevonden op Google
+
+externe font gedownload van 'https://www.dafont.com/theme.php?cat=113'. Type Machine gebruikt en geplakt in:
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+Ik heb hier de naam veranderd van myFirstFont naar Type Machine en de url geplakt die ik had gedownloaded. Ik heb er ook nog h1 voorgezet, zodat de code het ook echt deed in mijn eindproduct.
+
+

@@ -1,17 +1,53 @@
 html, body {
+    flex
     padding: 0;
     margin: 0;
 }
+.container {
+    align-content: flex-start}
 
 body {
-    background: #5d524c;
-    color: #c8c3bf;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    size: 14px;
-    padding-left: 10%;
+    background: #FFC2CE;
+    color: #693726;
+    size: 20px;    
+    margin: 10px;
+    border: 2px solid rgb(253,110,138)
 }
+@font-face {
+    h1{font-family: Type Machine;
+    src: url(https://www.pngmart.com/nl/image/25460);
+    }
+  }
 
-#vogel {
-    width: 225px;
+
+
+#muzieknoten {
+    width: 475px;
     height: auto;
 }
+
+.flexmenu {
+    display:flex; 
+    justify-content: space-around;
+    background-color: rgb(253,110,138);
+}
+
+a {
+    text-decoration: none;
+    font-size: 3vh;
+    color: rgb(162,18,47);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
